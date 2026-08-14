@@ -1,0 +1,19 @@
+# erzeugte Bilddaten - werden von den Notebooks selbst geschrieben
+demo_ct/
+scenes/
+patches/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
